@@ -5,7 +5,7 @@
 	
 0x00 项目概述
      
-     脚本没什么技术含量，将原理简单概述一下。把收集到的ip放到ip.txt中，进行CDN过滤，masscan全端口扫描，Fscan扫描，httpx标题识别，将整理的URL进行Finger+observer双重指纹识别，xray+nuclei漏扫。
+     将原理简单概述一下,把收集到的ip放到ip.txt中，进行CDN过滤，masscan全端口扫描，Fscan扫描，httpx标题识别，将整理的URL进行Finger+observer双重指纹识别，xray+nuclei漏扫。
      
 0x01 使用方法
      
